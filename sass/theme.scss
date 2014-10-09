@@ -1,6 +1,6 @@
 // Core variables and mixins
 @import "theme/variables";
-@import "bootstrap/mixins";
+@import "theme/mixins";
 
 // Reset and dependencies
 @import "bootstrap/normalize";
@@ -50,5 +50,6 @@
 @import "bootstrap/responsive-utilities";
 
 //Custom Overrides
-@import "theme/other";
 @import "theme/buttons.scss";
+@import "theme/forms.scss";
+@import "theme/other";
