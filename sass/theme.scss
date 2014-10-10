@@ -50,6 +50,8 @@
 @import "bootstrap/responsive-utilities";
 
 //Custom Overrides
-@import "theme/buttons.scss";
-@import "theme/forms.scss";
+@import "theme/buttons";
+@import "theme/forms";
+@import "theme/panels";
+@import "theme/wells";
 @import "theme/other";
