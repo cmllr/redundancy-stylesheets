@@ -1,0 +1,14 @@
+.ui-dialog{
+	background: white;
+	border-radius: 0 !important;
+	border: 1px solid $input-border;
+	padding: 0;
+	color: black;
+}
+.ui-dialog-titlebar{
+	background: white;
+	border: 0;
+	border-radius: 0;
+	border-bottom: 1px solid $input-border;
+	color: black;
+}
