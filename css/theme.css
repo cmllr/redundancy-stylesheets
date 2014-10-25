@@ -6223,7 +6223,7 @@ body {
 .panel-body.main {
   padding: 0; }
   .panel-body.main > h1, .panel-body.main > h2, .panel-body.main > h3, .panel-body.main > h4, .panel-body.main > h5, .panel-body.main > h6,
-  .panel-body.main > form,
+  .panel-body.main > form:not(.dropzone),
   .panel-body.main > span,
   .panel-body.main > p,
   .panel-body.main > div:not(.img-preview):not(.btn-group),
